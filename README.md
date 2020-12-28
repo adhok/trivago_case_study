@@ -1,4 +1,4 @@
-## trivago_case_study
+**trivago_case_study**
 
 This is a case study attempt for Trivago's Data Analyst Position
 
